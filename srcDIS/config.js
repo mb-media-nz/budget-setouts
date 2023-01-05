@@ -1,0 +1,1 @@
+export const themeCol = "#fdc714"
