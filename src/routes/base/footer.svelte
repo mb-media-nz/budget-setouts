@@ -1,36 +1,13 @@
 <script>
-	import { onMount } from 'svelte';
 	import LogoSvg from './logoSVG.svelte';
-
 	const currentYear = new Date().getFullYear();
-	/*
-	let first = 'ma',
-		second = 'il',
-		third = 'to:',
-		address = 'james',
-		domain = 'budgetsetouts',
-		ext = 'co.nz';
-	const items = document.querySelectorAll('.email-link')
-	const elLink = `${address}@${domain}.${ext}`
-	items.forEach(function(item) {
-		//console.log(item)
-		item.innerHTML = elLink
-		item.href = `${first}${second}${third}${elLink}`
-	});
-
-
-	onMount( () => {
-
-
-	});
-*/
 </script>
 
 <footer class=" bg-darkGrayTheme p-10 text-white">
 	<div class="flex justify-around max-w-screen-lg mx-auto flex-wrap">
 		<div>
 			<LogoSvg />
-			<p class="text-gray-300 text-sm">Affordable Site Survey Services.</p>
+			<p class="text-gray-300 mt-8 text-sm">Affordable Site Survey Services.</p>
 		</div>
 		<div class="w-[200px] text-gray-300">
 			<h3>Contact</h3>

@@ -13,10 +13,10 @@
 
 <!-- Banner -->
 <div
-	class="relative bg-cover bg-center p-4 md:p-20 min-h-[60vh] flex items-center justify-center bg-fixed"
+	class="relative bg-cover bg-center p-4 md:p-20 min-h-[60vh] flex items-center justify-center xl:bg-fixed"
 	style="background-image: url('bs-banner.webp');"
 >
-	<div class="bg-black absolute top-0 left-0 w-full h-full opacity-10" />
+	<div class="bg-black absolute top-0 left-0 w-full h-full opacity-30 xl:opacity-10" />
 	<div class="w-full md:max-w-screen-xl md:px-8 mx-auto z-10 relative">
 		<h1
 			class="text-white text-[2.2rem] mx-auto md:mx-0 font-bold max-w-[400px] leading-snug text-center md:text-left"
@@ -108,7 +108,7 @@
 		</div>
 		<div class="flex w-full max-w-[520px] items-center justify-center">
 			<img
-				src="/bs-why.jpg"
+				src="bs-why.webp"
 				alt="Tripod set up beside truck"
 				class="h-full w-full  object-cover object-center rounded-lg soft-shadow"
 			/>
