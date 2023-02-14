@@ -45,7 +45,7 @@
 		<div class="flex items-center justify-center">
 			<a href="/" class="w-[180px] xs:w-[300px] block">
 				<!-- <img src="/logo-258.webp" height=56 alt="Murray's Chimney Services Logo" class="max-h-14" /> -->
-				<LogoSVG size="100%" />
+				<LogoSVG size="100%" fill="fill-[#284ed3]" />
 			</a>
 		</div>
 

@@ -50,8 +50,8 @@
 		>
 	</div>
 	<div
-		class="w-full relative md:w-2/5 flex items-center justify-center bg-cover bg-center rounded-lg overflow-hidden soft-shadow min-h-[500px]"
-		style="background-image: url('/profile4.webp');"
+		class="w-full relative md:w-2/5 flex items-center justify-center bg-cover bg-top rounded-lg overflow-hidden soft-shadow min-h-[500px]"
+		style="background-image: url('/profile3.webp');"
 	/>
 </div>
 
