@@ -52,7 +52,8 @@
 					/></svg
 				>
 				<p class="text-gray-300 text-sm ml-4 mb-0">
-					<a class="email-link" href="mailto:james@budgetsetouts">james@budgetsetouts</a>
+					<a class="email-link" href="mailto:james@budgetsetouts.co.nz">james@budgetsetouts.co.nz</a
+					>
 				</p>
 			</div>
 		</div>

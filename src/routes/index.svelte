@@ -35,9 +35,8 @@
 		<p class="text-lg">
 			James Zervos (NZCE Civil) is the owner of Budget Set Outs Ltd (est. 1997). James offers top
 			quality services at affordable rates and guarantees his full attention to every job. Whether
-			you need an engineering set out for a subdivision or a topographic plan for a hillside home
-			please <a href="/#contact" class="underline">contact James</a> now and find out what he can do
-			for you.
+			you need an engineering set out for a subdivision or a topographic plan for a hillside home,
+			contact James to see how he can help.
 		</p>
 		<p class="text-lg">
 			James uses only the best equipment including a Leica GPS and a Leica robotic theodolite and as
@@ -46,13 +45,13 @@
 		</p>
 		<a
 			href="/#contact"
-			class="border-2 border-primaryTheme rounded-full rounded-br-none inline-block hover:bg-primaryTheme hover:text-white transition-colors px-8 py-3 text-"
+			class="border-2 mt-4 border-primaryTheme rounded-full rounded-br-none inline-block hover:bg-primaryTheme hover:text-white transition-colors px-8 py-3 text-"
 			>Contact</a
 		>
 	</div>
 	<div
-		class="w-full relative md:w-2/5 flex items-center justify-center bg-cover bg-center rounded-lg overflow-hidden soft-shadow"
-		style="background-image: url('/bs-james-profile.webp');"
+		class="w-full relative md:w-2/5 flex items-center justify-center bg-cover bg-center rounded-lg overflow-hidden soft-shadow min-h-[500px]"
+		style="background-image: url('/profile4.webp');"
 	/>
 </div>
 
@@ -73,7 +72,7 @@
 					volume calculations and as-built plans."
 		/>
 		<ServicesBox
-			img="bg-services-topographic.webp"
+			img="bs-service-topo.webp"
 			title="Topographic Plans"
 			description="AutoCAD plans with all relevant features including contours, buildings, trees, services,
 					drainage etc."
@@ -136,7 +135,7 @@
 			Call Us
 		</a>
 		<a
-			href="mailto:james@budgetsetouts"
+			href="mailto:james@budgetsetouts.co.nz"
 			class="bg-white border-2 my-2 group hover:text-white border-white rounded-full px-10 py-3 text-lg flex items-center hover:bg-transparent hover:border-2 hover:border-white transition-colors"
 		>
 			<svg
@@ -157,17 +156,28 @@
 	<div class="flex w-full flex-col sm:flex-row max-w-screen-lg mx-auto">
 		<div class="w-full sm:w-1/2 p-4">
 			<h3 class="text-4xl mb-10">Client <span class="font-bold">Reviews</span></h3>
-			<p>See what our clients say about working with Budget Set Outs</p>
+			<p>See what our clients say about working with Budget Set Outs.</p>
 		</div>
 		<div class="w-full sm:w-1/2 p-4">
 			<div
-				class="mb-6 bg-white text-gray-800 p-8 relative after:absolute after:left-8 after:-bottom-3 after:bg-white after:w-4 after:h-6 after:rotate-45"
+				class="mb-6 bg-white  p-8 relative after:absolute after:left-8 after:-bottom-3 after:bg-white after:w-4 after:h-6 after:rotate-45"
 			>
-				Working with James was a pleasure
+				<div class="flex mb-4">
+					<img src="/icon-star.png" alt="" />
+					<img src="/icon-star.png" alt="" />
+					<img src="/icon-star.png" alt="" />
+					<img src="/icon-star.png" alt="" />
+					<img src="/icon-star.png" alt="" />
+				</div>
+				<p class="text-gray-800 m-0">
+					I've used James for levels, topo plans and setout for maybe 15 years now, wouldn't go
+					anywhere else.<br />
+					Prices are reasonable, time frame always good, and service is excellent. Highly recommend.
+				</p>
 			</div>
 			<div class="ml-4 text-lg">
-				<p class="mb-1 text-black">John Doe</p>
-				<p class="text-sm">CEO, Company Name</p>
+				<p class="mb-1 text-black">Murray Brown</p>
+				<p class="text-sm">Murray Brown Design Limited</p>
 			</div>
 		</div>
 	</div>
@@ -177,15 +187,21 @@
 <div class="p-4 pt-16 sm:p-20" id="work">
 	<div class="text-center">
 		<h3 class="text-4xl mb-4">Our <span class="font-bold">Work</span></h3>
-		<p>See some of the recent work we've completed</p>
+		<p>
+			See some of our past work including subdivisions Pegasus, Halswell on the Park, Waitakiri,
+			Westpark, Black Rock and Worsley.
+		</p>
 	</div>
 	<div
 		class="my-20 w-full max-w-screen-2xl mx-auto flex flex-wrap items-center justify-center gap-4"
 	>
-		<img src="/bs-gallery-0.webp" class="w-[350px] h-[250px] object-cover" alt="" />
-		<img src="/bs-gallery-1.webp" class="w-[350px] h-[250px] object-cover" alt="" />
-		<img src="/bs-gallery-2.webp" class="w-[350px] h-[250px] object-cover" alt="" />
-		<img src="/bs-gallery-3.webp" class="w-[350px] h-[250px] object-cover" alt="" />
+		<img src="/bs-gallery-0.webp" class="w-[350px] h-[250px] object-cover shadow-md" alt="" />
+		<img
+			src="/bs-work-topo-example.webp"
+			class="w-[350px] h-[250px] object-cover shadow-md"
+			alt=""
+		/>
+		<img src="/bs-work-gravel.webp" class="w-[350px] h-[250px] object-cover shadow-md" alt="" />
 	</div>
 </div>
 
