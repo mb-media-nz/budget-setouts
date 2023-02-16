@@ -224,10 +224,19 @@
 			<div class="p-4 pt-12 md:p-12 md:ml-8">
 				<h3 class="text-4xl mb-8">Get in in <span class="font-bold">Touch</span></h3>
 				<p class="mb-10">Send us a message about your project and James will be in touch.</p>
-				<form action="" class="flex flex-col flex-wrap max-w-md">
+				<form
+					action=""
+					name="contact"
+					method="POST"
+					data-netlify="true"
+					netlify-honeypot="bot-field"
+					class="flex flex-col flex-wrap max-w-md"
+				>
 					<input type="text" name="name" id="" placeholder="Name" class="" />
 					<input type="tel" name="tel" id="" placeholder="Phone" class="" />
 					<input type="text" name="email" id="" placeholder="Email" class="" />
+					<input class="hidden" name="bot-field" />
+					<input type="hidden" name="form-name" value="contact" />
 					<textarea name="message" id="" rows="8" placeholder="Message" class="" />
 					<button type="submit" class="bg-primaryTheme px-4 py-2 rounded-lg mt-2">Send</button>
 				</form>
