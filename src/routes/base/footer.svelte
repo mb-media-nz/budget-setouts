@@ -6,7 +6,7 @@
 <footer class=" bg-darkGrayTheme p-10 text-white">
 	<div class="flex justify-around max-w-screen-lg mx-auto flex-wrap">
 		<div>
-			<LogoSvg />
+			<LogoSvg fill="fill-[#fff]" />
 			<p class="text-gray-300 mt-8 text-sm">Affordable Site Survey Services.</p>
 		</div>
 		<div class="w-[200px] text-gray-300">

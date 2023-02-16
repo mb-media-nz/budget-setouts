@@ -9,8 +9,8 @@ module.exports = {
 				'xmd': '999px'
 			},
 			colors: {
-				primaryTheme: '#fdc714',
-				primaryThemeDark: '#e2b10e',
+				primaryTheme: '#3ab1fc',
+				primaryThemeDark: '#31a4ed',
 				primary: {
 					"light": "var(--primary-light)",
 					"regular": "var(--primary-regular)",
