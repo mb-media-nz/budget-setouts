@@ -45,7 +45,7 @@
 		</p>
 		<a
 			href="/#contact"
-			class="border-2 mt-4 border-primaryTheme rounded-full rounded-br-none inline-block hover:bg-primaryTheme hover:text-white transition-colors px-8 py-3 text-"
+			class="border-2 mt-4 border-primaryTheme rounded-full rounded-br-none inline-block hover:bg-primaryTheme hover:text-white transition-colors px-8 py-3 mb-8 md:mb-0"
 			>Contact</a
 		>
 	</div>
