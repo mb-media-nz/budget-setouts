@@ -60,5 +60,6 @@
 	</div>
 </footer>
 <div class="bg-darkGreyThemeDark text-center text-sm p-2 text-gray-500">
-	© {currentYear}. Website created by <a href="https://mbmedia.co.nz" target="_blank">MB Media</a>
+	© {currentYear}. Website created by
+	<a href="https://mediahost.nz" target="_blank" class="font-bold">MediaHost.nz</a>
 </div>
